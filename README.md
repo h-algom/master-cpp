@@ -1,1 +1,1 @@
-# cpp-checkers
+# cpp-learn
